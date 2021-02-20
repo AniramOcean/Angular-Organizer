@@ -1,4 +1,3 @@
-// https://angular-practise-calenda-3e9f6.firebaseio.com/
 import {Injectable} from '@angular/core';
 import {HttpClient} from '@angular/common/http';
 import {map} from 'rxjs/operators';
